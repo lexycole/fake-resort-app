@@ -1,4 +1,4 @@
-# Ionic Framework Demo App
+<!-- # Ionic Framework Demo App
 
 This is a demo app built with the Ionic Framework that you can preview in the browser or clone and run locally on an emulator or device.
 
@@ -18,4 +18,4 @@ This assumes you already have an emulator setup for iOS or Android. Substitute `
 
 # LICENSE
 
-Ionic is licensed under the MIT Open Source license. For more information, see the LICENSE file in this repository.
+Ionic is licensed under the MIT Open Source license. For more information, see the LICENSE file in this repository. -->
